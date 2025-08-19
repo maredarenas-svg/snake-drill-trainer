@@ -1,0 +1,5 @@
+{
+  "name": "USMC T&E Snake Drill Trainer",
+  "description": "A single-page tool for USMC personnel to practice Traverse and Elevation (T&E) adjustments. Configure a drill, follow the commands, and test your ability to return your settings to zero.",
+  "requestFramePermissions": []
+}
